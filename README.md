@@ -5,7 +5,7 @@ Link to project: https://pinkrobocop.github.io/New-Finance-Console/
 
 ## Overview
  
-I was tasked with creating code for analyzing the financial records of a company.
+Create code for analyzing the financial records of a company.
 
 ## Instructions
 
