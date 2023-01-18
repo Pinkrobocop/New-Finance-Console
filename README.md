@@ -9,9 +9,11 @@ I was tasked with creating code for analyzing the financial records of a company
 
 ## Instructions
 
-The following image shows the web application's appearance and functionality:
+When you open your code in the browser your resulting analysis should look similar to the following image:
 
-![password generator demo](./assets/05-javascript-challenge-demo.png)
+<p align="center">
+  <img src="https://github.com/Pinkrobocop/New-Finance-Console/blob/main/Financial%20record%20img%20file.png" width="350" title="Financial records image for project" 
+</p>
 
 
 * Use a dataset composed of arrays with two fields: Date and Profit/Losses
@@ -25,11 +27,7 @@ The following image shows the web application's appearance and functionality:
  * The greatest increase in profits (date and amount) over the entire period.
  * The greatest decrease in losses (date and amount) over the entire period.
 
-When you open your code in the browser your resulting analysis should look similar to the following:
 
-<p align="center">
-  <img src="https://github.com/Pinkrobocop/New-Finance-Console/blob/main/Financial%20record%20img%20file.png" width="350" title="Financial records image for project" 
-</p>
   
   
   
